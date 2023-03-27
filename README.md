@@ -32,3 +32,9 @@ Este aplicativo é uma ferramenta útil para desenvolvedores em busca de novos l
 5. Escaneie o código QR gerado no terminal ou na página aberta em seu navegador.
 
 6. Aguarde a instalação do aplicativo e aproveite!
+
+## Dicas
+
+1. Apos iniciar o projeto, clique w para abrir na web, a para abrir no emulador ou leia o QR code para abrir no celular
+
+2. Para abrir no proprio celular, baixe o aplicativo [Expo Go](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR&gl=US&pli=1)
