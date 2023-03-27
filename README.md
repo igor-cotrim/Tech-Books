@@ -6,7 +6,7 @@ Este aplicativo é uma ferramenta útil para desenvolvedores em busca de novos l
 ## Pré-requisitos
 
 * Node.js
-* Expo CLI
+* Expo CLI (```npm install -g expo-cli``` ou ```npx install -g expo-cli```)
 * Outras dependências do projeto
 
 ## Instalação
